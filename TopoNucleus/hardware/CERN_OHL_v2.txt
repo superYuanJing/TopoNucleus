@@ -1,0 +1,14 @@
+TopoNucleus 硬件设计许可：CERN Open Hardware Licence v2
+
+本目录下所有硬件设计文件（BOM、图纸、STL/STEP、模具与腔体改造标注）在
+CERN OHL v2 下授权。许可证全文见：
+  https://ohwr.org/cernohl/v2/CERN_OHL_v2.txt
+
+要点（非法律意见）：
+- 你可以使用、复制、修改、分发本目录下的设计。
+- 你分发的衍生设计（无论修改多少）必须以相同许可证公开。
+- 你必须保留原作者署名，并注明修改了什么。
+- 本设计按"原样"提供，不附带任何担保。
+
+TopoNucleus 文档（README / THEORY / 结果记录）使用 CC-BY-SA 4.0；
+原始与处理后数据使用 CC0。详见仓库根目录 LICENSE。

@@ -1,0 +1,16 @@
+TopoNucleus 文档许可：Creative Commons Attribution-ShareAlike 4.0 International
+
+本目录下所有文档（README、THEORY、results/ 下除原始数据外的记录、CONTRIBUTING）
+在 CC-BY-SA 4.0 下授权。许可证全文见：
+  https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+要点（非法律意见）：
+- 署名（BY）：你必须给出适当署名，提供许可证链接，并说明是否做了修改。
+- 相同方式共享（SA）：如果你改编本作品，必须以相同许可证发布。
+- 没有额外限制：你不得以法律条款或技术手段限制他人行使本许可证允许的权利。
+
+原始与处理后数据（data/ 下 CSV、JSON、特征文件）使用 CC0 放弃权利：
+  https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+硬件设计（hardware/ 下 BOM、图纸、STL/STEP 等）使用 CERN OHL v2：
+  https://ohwr.org/cernohl/v2/CERN_OHL_v2.txt

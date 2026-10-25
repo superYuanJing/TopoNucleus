@@ -1,0 +1,18 @@
+# TopoNucleus 软件依赖
+# 安装: pip install -r requirements.txt
+
+# 核心依赖
+numpy>=1.20
+pandas>=1.3
+scipy>=1.7
+matplotlib>=3.4
+
+# 数据采集（NI-DAQmx，有硬件时安装）
+# nidaqmx>=0.5.7  # 可选，无硬件时用模拟模式
+
+# 贝叶斯优化（可选，无 sklearn 时回退到遗传算法）
+scikit-learn>=1.0
+
+# 可视化（可选）
+# plotly>=5.0  # 交互式绘图
+# seaborn>=0.11  # 统计绘图
